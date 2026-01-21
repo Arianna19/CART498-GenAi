@@ -1,0 +1,2 @@
+negative_prompt ="blurry, low detail, extra limbs, text artifacts, bad anatomy"
+prompt = "2D Futurism cubism orange salmon caught hanging by a large fishing hook, floating in an endless pink and blue checkerboard ocean floor in 2D."
