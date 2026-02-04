@@ -1,0 +1,97 @@
+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ GPT-4.1, The Worst Mathematician Ever ✧ﾟ･:*ヽ(◕ヮ◕ヽ)
+I will attempt math. Please lower your expectations.
+
+Enter a base number (n): 2
+Enter number of iterations (i): 5
+
+(ง •̀_•́)ง Beginning calculations...
+
+(ﾉ◕ヮ◕)ﾉ Iteration 1
+GPT-4.1 says: 1
+Correct answer: 4
+(・・?) Why does math look like this?
+-------------------------------------------------------
+(・・?) Iteration 1
+GPT-4.1 says: 5
+Correct answer: 4
+(⊙_⊙;) I don't trust this number.
+-------------------------------------------------------
+(⊙_⊙;) Iteration 1
+GPT-4.1 says: 1
+Correct answer: 4
+(╥﹏╥) I should apologize to math.
+-------------------------------------------------------
+(ノ_<。) Iteration 1
+GPT-4.1 says: 4
+Correct answer: 4
+(ﾉ◕ヮ◕)ﾉ Math fears me today.
+-------------------------------------------------------
+(๑˃ᴗ˂)ﻭ Iteration 2
+GPT-4.1 says: 19
+Correct answer: 16
+(・_・?) Hmm… that feels suspicious.
+-------------------------------------------------------
+(・・?) Iteration 2
+GPT-4.1 says: 18
+Correct answer: 16
+(・_・?) I don't trust this number.
+-------------------------------------------------------
+(・_・?) Iteration 2
+GPT-4.1 says: 14
+Correct answer: 16
+(╥﹏╥) I should apologize to math.
+-------------------------------------------------------
+(ノ_<。) Iteration 2
+GPT-4.1 says: 13
+Correct answer: 16
+(╥﹏╥) I messed it up again.
+-------------------------------------------------------
+(╥﹏╥) Iteration 2
+GPT-4.1 says: 18
+Correct answer: 16
+(＠_＠) Everything is numbers and I am afraid.
+-------------------------------------------------------
+(…) Iteration 2
+GPT-4.1 says: 13
+Correct answer: 16
+(＠_＠) I can't do this anymore.
+-------------------------------------------------------
+(;_;) Iteration 2
+GPT-4.1 says: 16
+Correct answer: 16
+(๑˃ᴗ˂)ﻭ YES. A NUMBER. A CORRECT ONE.
+-------------------------------------------------------
+(•̀ᴗ•́)و Iteration 3
+GPT-4.1 says: 258
+Correct answer: 256
+(・・?) Hmm… that feels suspicious.
+-------------------------------------------------------
+(⊙_⊙;) Iteration 3
+GPT-4.1 says: 256
+Correct answer: 256
+(๑˃ᴗ˂)ﻭ Math fears me today.
+-------------------------------------------------------
+(๑˃ᴗ˂)ﻭ Iteration 4
+GPT-4.1 says: 65537
+Correct answer: 65536
+(・・?) Why does math look like this?
+-------------------------------------------------------
+(⊙_⊙;) Iteration 4
+GPT-4.1 says: 65535
+Correct answer: 65536
+(⊙_⊙;) I don't trust this number.
+-------------------------------------------------------
+(⊙_⊙;) Iteration 4
+GPT-4.1 says: 65536
+Correct answer: 65536
+(ﾉ◕ヮ◕)ﾉ I am briefly powerful.
+-------------------------------------------------------
+(ﾉ◕ヮ◕)ﾉ Iteration 5
+GPT-4.1 says: 4294967296
+Correct answer: 4294967296
+(≧◡≦) I am briefly powerful.
+-------------------------------------------------------
+
+(… ) Experiment complete.
+Total mistakes made: 12
+Final diagnosis: total cognitive collapse.
